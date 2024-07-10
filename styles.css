@@ -6,12 +6,21 @@
     font-style: italic;
 }
 
-
-li {
-    font-weight: 800;
-    
+ul, ol {
+    background-color: pink;
+    padding: 20px;
+    text-align: center;
 }
 
+ul li {
+    font-weight: 800;
+    list-style: none;
+}
+
+ol li {
+    background-color: rgb(15, 255, 175);
+    margin: 8px;
+}
 
 img {
     height: auto;
