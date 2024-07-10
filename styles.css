@@ -11,3 +11,9 @@ li {
     font-weight: 800;
     
 }
+
+
+img {
+    height: auto;
+    width: 300px;
+}
